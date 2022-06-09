@@ -1,7 +1,6 @@
 img {
     max-width: 100px;
     width: 100%;
-    position: relative
 }
 .modal {
     position: fixed;

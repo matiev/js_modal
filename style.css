@@ -12,3 +12,6 @@
     justify-content: center;
     align-items: center;
 }
+.modal img {
+    max-width: max-content;
+}

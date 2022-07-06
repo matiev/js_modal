@@ -1,4 +1,6 @@
-
+img {
+    max-width: 100px;
+}
 
 .modal {
     position: fixed;
@@ -8,6 +10,9 @@
     height: 100%;
     background: rgb(123 123 123 / 50%);
     z-index: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .modal img {
     max-width: max-content;

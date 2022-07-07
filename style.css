@@ -1,4 +1,9 @@
-
+img {
+    max-width: 100px;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
 
 .modal {
     position: fixed;
@@ -11,4 +16,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.modal img {
+    max-width: max-content;
 }

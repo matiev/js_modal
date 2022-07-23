@@ -1,4 +1,7 @@
-
+img {
+    max-width: 100px;
+    width: 100%;
+}
 
 .modal {
     position: fixed;

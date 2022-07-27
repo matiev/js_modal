@@ -20,5 +20,5 @@ img {
 }
 .modal img {
     max-width: max-content;
-    cursor: none;
+    cursor: default;
 }

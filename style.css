@@ -1,4 +1,9 @@
 img {
+    max-width: 100px;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+    cursor: pointer;
 }
 
 .modal {

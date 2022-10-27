@@ -1,6 +1,6 @@
 img {
     max-width: 100px;
-
+    z-index: 1;
 }
 
 .modal {

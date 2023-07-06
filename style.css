@@ -3,8 +3,10 @@ img {
     width: 100%;
     position: relative;
     z-index: 1;
+    
     cursor: pointer;
 
+    min-height: auto;
 }
 
 .modal {
